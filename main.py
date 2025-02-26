@@ -3,7 +3,7 @@ from typing import Set
 from backend.core import run_llm
 import streamlit as st
 
-st.header("Licheng's AI Chat Bot")
+st.header("Licheng's AI Twin")
 
 prompt = st.chat_input("What do you want to ask me today?")
 
